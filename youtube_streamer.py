@@ -2,7 +2,7 @@ import subprocess
 import os
 
 # YouTube Stream Key and Main RTMP URL
-YOUTUBE_STREAM_KEY = "xr9t-k4g8-y5vd-us8z-ffz3"
+YOUTUBE_STREAM_KEY = "cm59-mx96-zqst-pc15-bvs2"
 YOUTUBE_RTMP_URL = f"rtmp://a.rtmp.youtube.com/live2/{YOUTUBE_STREAM_KEY}"
 YOUTUBE_BACKUP_RTMP_URL = f"rtmp://b.rtmp.youtube.com/live2/{YOUTUBE_STREAM_KEY}?backup=1"
 
